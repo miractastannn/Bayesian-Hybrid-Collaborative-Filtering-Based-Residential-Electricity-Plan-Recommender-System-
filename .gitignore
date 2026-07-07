@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+figures/*.png
+bhcf_env/
+.venv/
+env/
+*.egg-info/
+.DS_Store
