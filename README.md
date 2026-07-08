@@ -1,7 +1,7 @@
 ﻿# BHCF-EPRS: Bayesian Hybrid Collaborative Filtering - Electricity Plan Recommender System
 
 **Final Project - Recommender Systems Course**  
- 220201064 Muhammed Miraç Taştan  
+  Muhammed Miraç Taştan  
 Based on: Zhang et al., IEEE Trans. Ind. Informat., Vol. 15, No. 8, Aug. 2019
 
 ---
